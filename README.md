@@ -4,11 +4,11 @@
 
   1.  Die Kundenfirma **Protomax** sucht spezifische Manufacturing Services für 5 Komponenten, die in den neuen Produkt-Prototypen **NovoXP** der Firma eingebaut werden sollen.
   2.  Die 5 **Komponenten** des NovoXP Prototypen sind:
-    1.  ein Bauteil mit den Dimensionen 180*180*200 mm, das aus rotem ABS Material bestehen soll
-    2.  eine Welle mit den Dimensionen 300*10 mm (Durchmesser), aus Stahl
-    3.  ein Bauteil mit den Dimensionen 12*18*25mm, das aus flexiblem Material zur Schwingungsdämpfung bestehen soll.
-    4.  eine zwei-schichtige elektronische Leiterplatte mit den Dimensionen 100*50*3mm zur Bestückung mit einer Schaltung
-    5.  Ein Bauteil mit den Dimensionen 190*190*320mm, das aus gelbem Epoxydharz bestehen soll.
+    1.  ein Bauteil mit den Dimensionen 180x180x200 mm, das aus rotem ABS Material bestehen soll
+    2.  eine Welle mit den Dimensionen 300x10 mm (Durchmesser), aus Stahl
+    3.  ein Bauteil mit den Dimensionen 12x18x25mm, das aus flexiblem Material zur Schwingungsdämpfung bestehen soll.
+    4.  eine zwei-schichtige elektronische Leiterplatte mit den Dimensionen 100x50x3mm zur Bestückung mit einer Schaltung
+    5.  Ein Bauteil mit den Dimensionen 190x190x320mm, das aus gelbem Epoxydharz bestehen soll.
   3.  Es gibt eine **Manufacturing Services Platform NIMBLE.AT**, auf der Hersteller ihre Dienstleistungen anbieten können.
   4.  Es gibt **8 Manufacturing firms**, die insgesamt 10 Leistungen teilweise überlappend, anbieten können: Tri-Druck, LeiterPro, Filamenti, PlasticniNozzle, Betonista, EPX Ltd., Lathes Ltd., All-In-Pro GmbH.
   5.  Die **10 Leistungen** sind:
