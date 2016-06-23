@@ -157,3 +157,4 @@ Ein visionäres Startup möchte in Südeuropa mit innovativen Bautechniken exper
     5 2 10 10 11 9 2 10 8 11 7 2 10 9 11 8 3 7 5 8 4 9 8 3 19 5 20 6 21 8 0 30 4
     5 3 7 5 8 4 9 8 2 10 8 11 7 2 10 9 11 8 2 10 10 11 9 3 19 5 20 6 21 8 0 35 4
 
+ 
