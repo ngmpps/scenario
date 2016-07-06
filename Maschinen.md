@@ -1,20 +1,20 @@
 ##Firmen mit Maschinenausstattung:
 
-0.	Tri-Druck:        *1,2,3,7,8*
+0.	Standort: Tri-Druck:        *1,2,3,7,8*
 
-1.	LeiterPro:        *12,13,22,23,25*
+1.	Standort: LeiterPro:        *12,13,22,23,25*
 
-2.	Filamenti:        *5,16,17,27*
+2.	Standort: Filamenti:        *5,16,17,27*
 
-3.	PlasticniNozzle:  *18,21*
+3.	Standort: PlasticniNozzle:  *18,21*
 
-4.	Betonista:        *10,11*
+4.	Standort: Betonista:        *10,11*
 
-5.	EPX Ltd.:		      *14,19,20*
+5.	Standort: EPX Ltd.:		      *14,19,20*
 
-6.	Lathes Ltd.:		  *15,24,26*
+6.	Standort: Lathes Ltd.:		  *15,24,26*
 
-7.	All-In-Pro:		   *4,6,9,28*
+7.	Standort: All-In-Pro:		   *4,6,9,28*
 
 ##Transportwege zwischen den Firmen:
 
