@@ -35,4 +35,5 @@
   7.  Als nächsten Schritt simulieren wir den tatsächlichen Produktionslauf und injizieren eine Störung an einem unserer involvierten Drucker.
   8.  Durch diese Störung wird nun eine neue Optimierung nötig, die wieder vom **Profactor-FJSSTT-Service** übernommen wird.
   9.  Auf einem Management-Dashboard sieht der Produktionsleiter von Protomax die Definition, die ursprüngliche Planung, die Störung, und die Neu-Optimierung.
-  10.  ...
+
+Dieses Szenario wurde um zwei weitere Szenarien erweitert. Mit jeweils 5 Permutationen ergeben sich daraus insgesamt 15 Jobs, die formal in der Datei [Szenarien.md](Szenarien.md) beschrieben sind. Zur Ausführung stehen bis zu 28 Maschinen zur Verfügung. Die Beschreibung der einzelnen Maschinen sowie deren Zuordnung zu den 8 Manufacturing Firms ist in [Maschinen.md](Maschinen.md) verfügbar.
